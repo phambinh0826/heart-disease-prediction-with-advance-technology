@@ -5,6 +5,7 @@ Tôi rất vui khi được chia sẻ cuốn sổ tay mới nhất của mình, 
 **Thành tựu chính**
 **Phân tích thống kê:**
 - Phát hiện mối quan hệ chính giữa các đặc điểm như tuổi tác, mức cholesterol và huyết áp khi nghỉ ngơi với biến mục tiêu.
+
 - Làm nổi bật các yếu tố dự báo có tác động lớn nhất đến bệnh tim bằng cách sử dụng các biện pháp thống kê và khám phá trực quan.
 
 **Phân tích dữ liệu khám phá (EDA):**
