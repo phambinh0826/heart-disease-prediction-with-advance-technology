@@ -1,7 +1,5 @@
 **Xuất bản Dự đoán bệnh tim: Hành trình dựa trên dữ liệu từ EDA đến Đánh giá đa mô hình**
 ===================================
-
-**Xuất bản Dự đoán bệnh tim: Hành trình dựa trên dữ liệu từ EDA đến Đánh giá đa mô hình**
 Tôi rất vui khi được chia sẻ cuốn sổ tay mới nhất của mình, nơi tôi khám phá Dự đoán bệnh tim thông qua quy trình khoa học dữ liệu chi tiết và có hệ thống. Dự án này bao gồm mọi thứ từ Phân tích thống kê đến EDA, Làm sạch dữ liệu, Kỹ thuật tính năng và triển khai hơn 8 mô hình học máy để phát triển một khuôn khổ dự đoán chính xác và đáng tin cậy.
 
 **Thành tựu chính**
