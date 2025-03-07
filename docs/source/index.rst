@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+**Xuất bản Dự đoán bệnh tim: Hành trình dựa trên dữ liệu từ EDA đến Đánh giá đa mô hình**
 ===================================
 
 **Xuất bản Dự đoán bệnh tim: Hành trình dựa trên dữ liệu từ EDA đến Đánh giá đa mô hình**
@@ -42,9 +42,11 @@ Tôi rất muốn nghe suy nghĩ của bạn về dự án này!
 - Bạn có đề xuất nào để cải thiện hơn nữa hoặc có thêm mô hình nào để thử không?
 
 Contents
---------
+========
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   heart-disease-prediction-with-advance-technology.ipynb
+
+   
